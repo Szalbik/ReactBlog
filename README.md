@@ -23,7 +23,6 @@ The purpose of this project is to learn well react and redux. My motivation is t
 
 ## Technologies
 
-- node - version ![](https://img.shields.io/npm/v/node.svg?style=plastic)
 - react - version ![](https://img.shields.io/npm/v/react.svg?style=plastic)
 - redux - version ![](https://img.shields.io/npm/v/redux.svg?style=plastic)
 - react-router-dom - version ![](https://img.shields.io/npm/v/react-router-dom.svg?style=plastic)
