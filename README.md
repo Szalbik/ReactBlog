@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Szalbik/ReactBlog/tree/master.svg?style=svg)](https://circleci.com/gh/Szalbik/ReactBlog/tree/master)
+[![build CircleCI](https://circleci.com/gh/Szalbik/ReactBlog/tree/master.svg?style=svg)](https://circleci.com/gh/Szalbik/ReactBlog/tree/master)
 
 # Blog App
 
