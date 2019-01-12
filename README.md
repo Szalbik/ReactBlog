@@ -24,7 +24,7 @@ The purpose of this project is to learn well react and redux. My motivation is t
 ## Technologies
 
 - node - version 11.0
-- react - version 1.0
+- react - ![react](https://img.shields.io/npm/v/react.svg?style=popout-square)
 - redux - version 2.0
 - react-router-dom - version 4.3.1 / @latest
 
