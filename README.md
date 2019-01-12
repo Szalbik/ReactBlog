@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Szalbik/ReactBlog/tree/master.svg?style=shield)](https://circleci.com/gh/Szalbik/ReactBlog/tree/master)
-
-# Blog App
+# Blog App [![CircleCI](https://circleci.com/gh/Szalbik/ReactBlog/tree/master.svg?style=svg)](https://circleci.com/gh/Szalbik/ReactBlog/tree/master)
 
 > Application to create simple posts.
 
