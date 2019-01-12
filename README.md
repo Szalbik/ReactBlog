@@ -36,32 +36,29 @@ npm install / yarn install
 npm start / yarn start
 ```
 
-## Code Examples
-
-Show examples of usage:
-`put-your-code-here`
-
 ## Features
 
 List of features ready and TODOs for future development
 
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Show multiple post
+- Show single post
+- Add post
+- Edit post
+- Delete post
 
 To-do list:
 
-- Wow improvement to be done 1
-- Wow improvement to be done 2
+- Login and Register User
+- Add comments for posts
 
 ## Status
 
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_. After create simple blog application with posts, I come back to this project when i have time and add new features.
 
 ## Inspiration
 
-Add here credits. Project inspired by..., based on...
+Project inspired by [@Stephen Grider](https://github.com/StephenGrider), based on [@Udemy course](https://www.udemy.com/react-redux/)
 
 ## Contact
 
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Damian Szalbierz](https://github.com/Szalbik) - feel free to contact me!
