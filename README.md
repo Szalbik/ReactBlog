@@ -31,7 +31,10 @@ The purpose of this project is to learn well react and redux. My motivation is t
 
 ## Setup
 
-Describe how to install / setup your local environement / add link to demo version.
+```
+npm install / yarn install
+npm start / yarn start
+```
 
 ## Code Examples
 
