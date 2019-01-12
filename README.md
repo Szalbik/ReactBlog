@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/Szalbik/ReactBlog/tree/master.svg?style=svg)](https://circleci.com/gh/Szalbik/ReactBlog/tree/master)
+
 # Blog App
 
 > Application to create simple posts.
@@ -23,10 +25,10 @@ The purpose of this project is to learn well react and redux. My motivation is t
 
 ## Technologies
 
-- Node - version 11.0
-- React - version 1.0
-- Redux - version 2.0
-- React - version 3.0
+- node - version 11.0
+- react - version 1.0
+- redux - version 2.0
+- react-router-dom - version 4.3.1 / @latest
 
 ## Setup
 
