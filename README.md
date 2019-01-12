@@ -19,7 +19,7 @@ The purpose of this project is to learn well react and redux. My motivation is t
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/preview.png)
 
 ## Technologies
 
