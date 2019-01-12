@@ -15,7 +15,7 @@
 
 ## General info
 
-Add more general information about project. What the purpose of the project is? Motivation?
+The purpose of this project is to learn well react and redux. My motivation is to get a job as a Front-end developoer. As the time go I will add new feature to this project and learn new libraries.
 
 ## Screenshots
 
@@ -23,9 +23,10 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Technologies
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Node - version 11.0
+- React - version 1.0
+- Redux - version 2.0
+- React - version 3.0
 
 ## Setup
 
