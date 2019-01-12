@@ -32,6 +32,8 @@ The purpose of this project is to learn well react and redux. My motivation is t
 ## Setup
 
 ```
+git clone git@github.com:Szalbik/ReactBlog.git
+cd ReactBlog
 npm install / yarn install
 npm start / yarn start
 ```
