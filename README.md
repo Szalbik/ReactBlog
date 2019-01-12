@@ -23,10 +23,11 @@ The purpose of this project is to learn well react and redux. My motivation is t
 
 ## Technologies
 
-- node - version 11.0
-- react - ![react](https://img.shields.io/npm/v/react.svg?style=popout-square)
-- redux - version 2.0
-- react-router-dom - version 4.3.1 / @latest
+- node - version ![](https://img.shields.io/npm/v/node.svg?style=plastic)
+- react - version ![](https://img.shields.io/npm/v/react.svg?style=plastic)
+- redux - version ![](https://img.shields.io/npm/v/redux.svg?style=plastic)
+- react-router-dom - version ![](https://img.shields.io/npm/v/react-router-dom.svg?style=plastic)
+- redux-form - version ![](https://img.shields.io/npm/v/redux-form.svg?style=plastic)
 
 ## Setup
 
