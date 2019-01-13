@@ -15,7 +15,7 @@
 
 ## General info
 
-The purpose of this project is to learn well react and redux. My motivation is to get a job as a Front-end developoer. As the time go I will add new feature to this project and learn new libraries.
+The purpose of this project is to learn well react and redux. My motivation is to get a job as a Front-end developoer. As the time go I will add new features to this project and learn new libraries.
 
 ## Screenshots
 
@@ -41,7 +41,7 @@ npm start / yarn start
 
 List of features ready and TODOs for future development
 
-- Show multiple post
+- Show multiple posts
 - Show single post
 - Add post
 - Edit post
@@ -54,7 +54,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_. After create simple blog application with posts, I come back to this project when i have time and add new features.
+Project is: _in progress_. After creating simple blog application with posts, I will come back to this project when i have time and add new features.
 
 ## Inspiration
 
